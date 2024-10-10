@@ -1,0 +1,11 @@
+.question{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+.inside{
+    background-color: #8e57b9c0;
+}

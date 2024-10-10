@@ -1,0 +1,45 @@
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: #dbdbdb;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.exam-background {
+  background-image: url('../../public/Home Page.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.responsive {
+  width: 100%;
+  max-width: 100px;
+  padding: 0px;
+  margin: 0px;
+  height: auto;
+}
+
+.modal-background {
+  background-image: url('../../public/Home Page.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.provider {
+background-color:  #9860c296;
+}
